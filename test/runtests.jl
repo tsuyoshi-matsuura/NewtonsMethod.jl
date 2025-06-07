@@ -21,7 +21,7 @@ using Test
     @test root.normdiff < 1e-7
 
     root = newtonroot(f,1.1)
-    @test root.normdiff < 1e-7
+    @test root.normdiff < 1e-16
 
     f(x) = 2 + x^2
     f′(x) = 2*x
