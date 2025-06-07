@@ -1,0 +1,7 @@
+name = "NewtonsMethod"
+uuid = "18e7d761-5163-463c-89ae-8ae6edff33ab"
+authors = ["Tsuyoshi Matsuura"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.11"

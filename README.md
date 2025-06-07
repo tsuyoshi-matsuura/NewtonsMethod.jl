@@ -1,0 +1,1 @@
+# NewtonsMethod [![Build Status](https://github.com/tsuyoshi-matsuura/NewtonsMethod.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/tsuyoshi-matsuura/NewtonsMethod.jl/actions/workflows/CI.yml?query=branch%3Amain)
